@@ -9,4 +9,5 @@ System RAM: 64Gb
 GPU: Nvidia GeForce Titan Xp/Titan X
 
 To run the variational capsule encoder code: python main.py --save_dir /path/to/save/files --net saveFileName
+
 To run the variational encoder code: python main_vae.py --save_dir /path/to/save/files --net saveFileName
